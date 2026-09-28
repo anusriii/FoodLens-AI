@@ -1,0 +1,122 @@
+[
+  {
+    "standard_name": "Wheat Flour",
+    "aliases": ["wheat flour", "refined wheat flour", "maida", "enriched flour", "wheat meal", "atta", "whole wheat flour"],
+    "category": "Cereal Grain / Flour",
+    "purpose": "Primary structural carbohydrate and protein source in baking and dough formation",
+    "additive_code": null,
+    "allergen_relationship": "Wheat, Gluten",
+    "dietary": "Vegetarian, Vegan",
+    "concerns": "Contains gluten, not suitable for individuals with Coeliac disease or wheat allergy."
+  },
+  {
+    "standard_name": "Sugar",
+    "aliases": ["sugar", "sucrose", "cane sugar", "beet sugar", "refined sugar", "granulated sugar", "white sugar"],
+    "category": "Sweetener / Carbohydrate",
+    "purpose": "Provides sweetness, body, moisture retention, and browning (caramelization / Maillard reaction)",
+    "additive_code": null,
+    "allergen_relationship": null,
+    "dietary": "Vegetarian, Vegan (may involve bone char filtration in some traditional refining processes)",
+    "concerns": "High consumption of free sugars is associated with dental caries, metabolic syndrome, and obesity."
+  },
+  {
+    "standard_name": "Palm Oil",
+    "aliases": ["palm oil", "palmolein", "refined palm oil", "fractionated palm oil", "refined bleached deodorized palm oil", "rbd palm oil"],
+    "category": "Edible Vegetable Fat",
+    "purpose": "Provides solid fat structure, oxidative stability, smooth mouthfeel, and frying stability",
+    "additive_code": null,
+    "allergen_relationship": null,
+    "dietary": "Vegetarian, Vegan",
+    "concerns": "Rich in palmitic acid (saturated fat); moderate consumption recommended in cardiovascular dietary guidelines."
+  },
+  {
+    "standard_name": "Milk Powder",
+    "aliases": ["milk powder", "skimmed milk powder", "whole milk powder", "dried milk", "dairy solids", "milk solids"],
+    "category": "Dairy",
+    "purpose": "Imparts dairy flavour, tenderness, browning, and contributes milk protein and calcium",
+    "additive_code": null,
+    "allergen_relationship": "Milk",
+    "dietary": "Vegetarian, Non-Vegan",
+    "concerns": "Contains dairy proteins (casein, whey) and lactose; triggers milk allergy and lactose intolerance."
+  },
+  {
+    "standard_name": "Lecithin",
+    "aliases": ["soy lecithin", "soya lecithin", "lecithin", "sunflower lecithin", "lecithin from soy", "e322", "ins 322", "ins322"],
+    "category": "Emulsifier",
+    "purpose": "Blends hydrophobic and hydrophilic ingredients, improves dough flow, and maintains emulsion stability",
+    "additive_code": "E322 / INS 322",
+    "allergen_relationship": "Soy (when derived from soybean)",
+    "dietary": "Vegetarian, Vegan (plant source)",
+    "concerns": "Individuals with acute IgE-mediated soy allergy should note the botanical source."
+  },
+  {
+    "standard_name": "Salt",
+    "aliases": ["salt", "edible common salt", "iodized salt", "sodium chloride", "table salt", "sea salt"],
+    "category": "Mineral / Seasoning",
+    "purpose": "Flavour enhancement, gluten matrix strengthening in dough, microbial preservation",
+    "additive_code": null,
+    "allergen_relationship": null,
+    "dietary": "Vegetarian, Vegan",
+    "concerns": "High sodium intake is linked with elevated blood pressure and cardiovascular risk."
+  },
+  {
+    "standard_name": "Invert Sugar Syrup",
+    "aliases": ["invert sugar syrup", "invert sugar", "inverted sugar", "golden syrup", "liquid glucose"],
+    "category": "Sweetener",
+    "purpose": "Retains moisture, prevents crystallization of sugars, and enhances softness in baked goods",
+    "additive_code": null,
+    "allergen_relationship": null,
+    "dietary": "Vegetarian, Vegan",
+    "concerns": "Contributes to total free sugars."
+  },
+  {
+    "standard_name": "Sodium Bicarbonate",
+    "aliases": ["sodium bicarbonate", "sodium hydrogen carbonate", "baking soda", "e500", "ins 500", "ins 500(ii)"],
+    "category": "Raising Agent",
+    "purpose": "Releases carbon dioxide gas when exposed to heat or acid, leavening the dough",
+    "additive_code": "E500(ii) / INS 500(ii)",
+    "allergen_relationship": null,
+    "dietary": "Vegetarian, Vegan",
+    "concerns": "Contributes to total sodium content."
+  },
+  {
+    "standard_name": "Ammonium Bicarbonate",
+    "aliases": ["ammonium bicarbonate", "ammonium hydrogen carbonate", "e503", "ins 503", "ins 503(ii)"],
+    "category": "Raising Agent",
+    "purpose": "Rapid leavening agent for low-moisture baked goods (cookies and crackers)",
+    "additive_code": "E503(ii) / INS 503(ii)",
+    "allergen_relationship": null,
+    "dietary": "Vegetarian, Vegan",
+    "concerns": "Dissipates during baking; safe when used as directed."
+  },
+  {
+    "standard_name": "Sodium Benzoate",
+    "aliases": ["sodium benzoate", "benzoate of soda", "e211", "ins 211"],
+    "category": "Preservative",
+    "purpose": "Antimicrobial agent that inhibits growth of yeasts, moulds, and bacteria in acidic foods",
+    "additive_code": "E211 / INS 211",
+    "allergen_relationship": null,
+    "dietary": "Vegetarian, Vegan",
+    "concerns": "Subject to strict regulatory limits; interaction with ascorbic acid (vitamin C) can generate trace benzene."
+  },
+  {
+    "standard_name": "Citric Acid",
+    "aliases": ["citric acid", "e330", "ins 330"],
+    "category": "Acidity Regulator",
+    "purpose": "Controls pH, enhances tart flavor profile, and acts as a synergistic antioxidant",
+    "additive_code": "E330 / INS 330",
+    "allergen_relationship": null,
+    "dietary": "Vegetarian, Vegan",
+    "concerns": "Generally safe; acid erosion on tooth enamel if consumed frequently in concentrated acidic beverages."
+  },
+  {
+    "standard_name": "Cocoa Solids",
+    "aliases": ["cocoa solids", "cocoa powder", "cacao powder", "defatted cocoa powder", "dutch cocoa"],
+    "category": "Plant Product / Flavouring",
+    "purpose": "Provides chocolate flavor, dark color, and polyphenolic flavonoids",
+    "additive_code": null,
+    "allergen_relationship": null,
+    "dietary": "Vegetarian, Vegan",
+    "concerns": "Natural source of theobromine and caffeine."
+  }
+]
