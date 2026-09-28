@@ -193,7 +193,6 @@ All 13 unit and end-to-end integration tests will run and verify OCR, preprocess
 - **No Hallucinated Bans**: Regulatory rules are derived deterministically from public statutory registers (FSSAI, FDA, EUR-Lex, FSA, Health Canada). If data is insufficient, status is designated as *"Unknown / Not enough data"*.
 - **Allergen Disclaimer**: Absence of detected allergens never implies the product is completely allergen-free.
 - **Security**: Uploaded files use random UUIDs to eliminate path traversal, strict file-type whitelists, and 15MB file size limits.
-=======
-# FoodLens-AI
+
 AI-powered food label analyzer for ingredients, allergens, additives, nutrition, and regulations.
->>>>>>> 97ed302f30bb8fe162faa984b12654510edceca5
+
