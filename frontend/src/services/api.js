@@ -3,7 +3,7 @@
  * Connects React client to FastAPI backend endpoints.
  */
 
-const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000';
+const API_BASE_URL = import.meta.env.VITE_API_URL || '';
 
 export async function uploadAndAnalyzeImage(file) {
   const formData = new FormData();
